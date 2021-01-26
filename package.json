@@ -11,7 +11,7 @@
   "scripts": {
     "tsc": "tsc",
     "ts-node": "ts-node",
-    "start": "ts-node index.ts"
+    "start": "ts-node src/index.ts"
   },
   "dependencies": {
     "express": "^4.17.1",
